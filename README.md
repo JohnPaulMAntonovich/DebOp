@@ -5,4 +5,4 @@ An electron/javascript desktop application that debloats and optimizes your syst
 Authors:
 
 John Paul Antonovich
-[___]
+Benjamin Sone

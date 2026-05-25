@@ -18,7 +18,10 @@
       "name": "John Paul Antonovich",
       "email": "antonovichjp@gmail.com"
     },
-    {}
+    {
+      "name": "Benjamin Sone",
+      "email": "SoneInProgress@gmail.com"
+    }
   ],
   "license": "MIT",
   "devDependencies": {
